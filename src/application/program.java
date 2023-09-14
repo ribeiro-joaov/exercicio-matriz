@@ -43,9 +43,6 @@ public class program {
                         System.out.println("Down: " + mat[i + 1][j]);
 
                     }
-                    // teste de commit
-                    //teste de commit 2
-                    //teste de commit 3
 
                 }
             }
